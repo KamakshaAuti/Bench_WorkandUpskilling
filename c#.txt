@@ -1,0 +1,254 @@
+struct -- value type -- stack
+
+
+class -- Reference type -- Heap
+
+using System;
+
+namespace Evenodd
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        { 
+            Console.WriteLine("Enter a number:");
+            int a = Convert.ToInt32(Console.ReadLine());
+            if(a % 2 == 0)
+            {
+                Console.WriteLine("Given number is Even");
+            }else{
+                Console.WriteLine("Given number is Odd");
+                Console.ReadLine();
+            }
+        }
+    }
+}
+2.
+using System;
+
+namespace EvenOdd
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+           int i;
+           for(i=1;i<10;i++)
+           {
+               if(i % 2 != 0){
+               Console.Write(i+ " ");
+               }
+           }
+        }
+    }
+}
+o/p = 1 3 5 7 9 
+
+3.
+using System;
+
+namespace PositiveOrNegative
+{
+    class program
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Enter a number: ");
+            int a = Convert.ToInt32(Console.ReadLine());
+            if(a <=0)
+            {
+                Console.WriteLine("given number is Negative");
+            }else{
+                
+                Console.WriteLine("given number is Positive");
+            
+            }
+            
+        }
+    }
+}
+o/p = Enter a number: 
+7
+given number is Positive
+
+4.
+using System;
+
+namespace Largest
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Enter two numbers:");
+            int a = Convert.ToInt32(Console.ReadLine());
+            int b = Convert.ToInt32(Console.ReadLine());
+            if(a>b){
+                Console.WriteLine(a + " is Largest.");
+            
+            }else{
+                Console.WriteLine(b + " is Largest.");
+            }
+        }
+    }
+}
+o/p = Enter two numbers:88
+77
+88 is Largest
+
+5.
+using System;
+namespace LogicalPrograms
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter a String : ");
+            string originalString = Console.ReadLine();
+            string reverseString = string.Empty;
+            for (int i = originalString.Length - 1; i >= 0; i--)
+            {
+                reverseString += originalString[i];
+            }
+            Console.Write($"Reverse String is : {reverseString} ");
+            Console.ReadLine();
+        }      
+    }
+}
+
+6.
+using System;
+
+namespace Largest
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            int temp;
+            Console.WriteLine("Enter two numbers:");
+            int a = Convert.ToInt32(Console.ReadLine());
+            int b = Convert.ToInt32(Console.ReadLine());
+            temp = a;
+            a = b;
+            b = temp;
+            Console.WriteLine("Numbers After Swapping are:" + a + " " + b);
+        }
+    }
+}
+o/p = 
+Enter two numbers:2
+3
+Numbers After Swapping are:3 2
+
+7.
+using System;
+
+namespace SumOfMultiplesOfTandF
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            int result =0;
+            for(int i=1;i<=10;i++)
+            {
+                if((i % 3 == 0) || (i % 5 == 0)){
+                    result += i;
+                }
+            }
+            Console.WriteLine("The sum is: " +result);
+            
+        }
+    }
+}
+o/p = The sum is: 33
+
+8.
+using System;
+namespace Multiplesof17
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            for(int i=1; i<100; i++)
+            {
+                if(i % 17 == 0)
+                {
+                        Console.WriteLine(i + " ");
+                }
+            }
+        }
+    }
+}
+o/p = 
+17 
+34 
+51 
+68 
+85 
+
+9.
+using System;
+namespace SumOfDigitsOfNumber
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            int r,sum=0;
+            Console.WriteLine("Enter a number: ");
+            int a = Convert.ToInt32(Console.ReadLine());
+            while(a !=0)
+            {
+                r = a % 10;
+                a = a / 10;
+                sum = sum + r;
+            }
+            Console.WriteLine(sum);
+        }
+    }
+}
+o/p = Enter a number: 
+123456789
+45
+
+10.
+using System;
+namespace ReverseOfNumber
+{
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            int reverse = 0,temp;
+            Console.WriteLine("Enter a number: ");
+            int num = Convert.ToInt32(Console.ReadLine());
+            temp = num;
+            while(num != 0)
+            {
+                reverse = reverse * 10;
+                reverse = reverse + num%10;
+                num = num / 10;
+            }
+            Console.WriteLine("Reversed number is:" + reverse);
+            
+            if(temp == reverse){
+                Console.WriteLine("Given number is Palindrome");
+            }else{
+                Console.WriteLine("Given number is not Palindrome");
+            }
+        }
+    }
+}
+o/p = Enter a number: 
+232
+Reversed number is:232
+Given number is Palindrome
+
+10.
+
+
+
