@@ -1,0 +1,16 @@
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\bin\Debug\net5.0\vowels and constants.exe
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\bin\Debug\net5.0\vowels and constants.deps.json
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\bin\Debug\net5.0\vowels and constants.runtimeconfig.json
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\bin\Debug\net5.0\vowels and constants.runtimeconfig.dev.json
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\bin\Debug\net5.0\vowels and constants.dll
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\bin\Debug\net5.0\ref\vowels and constants.dll
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\bin\Debug\net5.0\vowels and constants.pdb
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\obj\Debug\net5.0\vowels and constants.csproj.AssemblyReference.cache
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\obj\Debug\net5.0\vowels and constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\obj\Debug\net5.0\vowels and constants.AssemblyInfoInputs.cache
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\obj\Debug\net5.0\vowels and constants.AssemblyInfo.cs
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\obj\Debug\net5.0\vowels and constants.csproj.CoreCompileInputs.cache
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\obj\Debug\net5.0\vowels and constants.dll
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\obj\Debug\net5.0\ref\vowels and constants.dll
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\obj\Debug\net5.0\vowels and constants.pdb
+C:\Users\DNSURYAV\Desktop\C# Basics\vowels and constants\obj\Debug\net5.0\vowels and constants.genruntimeconfig.cache

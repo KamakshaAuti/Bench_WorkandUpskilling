@@ -1,0 +1,16 @@
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\bin\Debug\net5.0\convert string to integer.exe
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\bin\Debug\net5.0\convert string to integer.deps.json
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\bin\Debug\net5.0\convert string to integer.runtimeconfig.json
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\bin\Debug\net5.0\convert string to integer.runtimeconfig.dev.json
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\bin\Debug\net5.0\convert string to integer.dll
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\bin\Debug\net5.0\ref\convert string to integer.dll
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\bin\Debug\net5.0\convert string to integer.pdb
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\obj\Debug\net5.0\convert string to integer.csproj.AssemblyReference.cache
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\obj\Debug\net5.0\convert string to integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\obj\Debug\net5.0\convert string to integer.AssemblyInfoInputs.cache
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\obj\Debug\net5.0\convert string to integer.AssemblyInfo.cs
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\obj\Debug\net5.0\convert string to integer.csproj.CoreCompileInputs.cache
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\obj\Debug\net5.0\convert string to integer.dll
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\obj\Debug\net5.0\ref\convert string to integer.dll
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\obj\Debug\net5.0\convert string to integer.pdb
+C:\Users\DNSURYAV\Desktop\C# Basics\convert string to integer\obj\Debug\net5.0\convert string to integer.genruntimeconfig.cache

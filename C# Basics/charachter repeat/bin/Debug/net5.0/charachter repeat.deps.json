@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "charachter repeat/1.0.0": {
+        "runtime": {
+          "charachter repeat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "charachter repeat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
