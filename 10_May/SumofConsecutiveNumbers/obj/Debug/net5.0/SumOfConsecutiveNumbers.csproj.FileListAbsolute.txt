@@ -1,0 +1,16 @@
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\obj\Debug\net5.0\SumOfConsecutiveNumbers.csproj.AssemblyReference.cache
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\obj\Debug\net5.0\SumOfConsecutiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\obj\Debug\net5.0\SumOfConsecutiveNumbers.AssemblyInfoInputs.cache
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\obj\Debug\net5.0\SumOfConsecutiveNumbers.AssemblyInfo.cs
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\obj\Debug\net5.0\SumOfConsecutiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\bin\Debug\net5.0\SumOfConsecutiveNumbers.exe
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\bin\Debug\net5.0\SumOfConsecutiveNumbers.deps.json
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\bin\Debug\net5.0\SumOfConsecutiveNumbers.runtimeconfig.json
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\bin\Debug\net5.0\SumOfConsecutiveNumbers.runtimeconfig.dev.json
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\bin\Debug\net5.0\SumOfConsecutiveNumbers.dll
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\bin\Debug\net5.0\ref\SumOfConsecutiveNumbers.dll
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\bin\Debug\net5.0\SumOfConsecutiveNumbers.pdb
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\obj\Debug\net5.0\SumOfConsecutiveNumbers.dll
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\obj\Debug\net5.0\ref\SumOfConsecutiveNumbers.dll
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\obj\Debug\net5.0\SumOfConsecutiveNumbers.pdb
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\obj\Debug\net5.0\SumOfConsecutiveNumbers.genruntimeconfig.cache

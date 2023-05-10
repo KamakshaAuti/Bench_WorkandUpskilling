@@ -1,0 +1,16 @@
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\obj\Debug\net5.0\PowerOfNumber.csproj.AssemblyReference.cache
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\obj\Debug\net5.0\PowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\obj\Debug\net5.0\PowerOfNumber.AssemblyInfoInputs.cache
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\obj\Debug\net5.0\PowerOfNumber.AssemblyInfo.cs
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\obj\Debug\net5.0\PowerOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\bin\Debug\net5.0\PowerOfNumber.exe
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\bin\Debug\net5.0\PowerOfNumber.deps.json
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\bin\Debug\net5.0\PowerOfNumber.runtimeconfig.json
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\bin\Debug\net5.0\PowerOfNumber.runtimeconfig.dev.json
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\bin\Debug\net5.0\PowerOfNumber.dll
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\bin\Debug\net5.0\ref\PowerOfNumber.dll
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\bin\Debug\net5.0\PowerOfNumber.pdb
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\obj\Debug\net5.0\PowerOfNumber.dll
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\obj\Debug\net5.0\ref\PowerOfNumber.dll
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\obj\Debug\net5.0\PowerOfNumber.pdb
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\PowerOfNumber\obj\Debug\net5.0\PowerOfNumber.genruntimeconfig.cache

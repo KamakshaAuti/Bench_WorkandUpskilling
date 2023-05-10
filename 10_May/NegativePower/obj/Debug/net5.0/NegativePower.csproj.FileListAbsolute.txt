@@ -1,0 +1,16 @@
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\obj\Debug\net5.0\NegativePower.csproj.AssemblyReference.cache
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\obj\Debug\net5.0\NegativePower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\obj\Debug\net5.0\NegativePower.AssemblyInfoInputs.cache
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\obj\Debug\net5.0\NegativePower.AssemblyInfo.cs
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\obj\Debug\net5.0\NegativePower.csproj.CoreCompileInputs.cache
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\bin\Debug\net5.0\NegativePower.exe
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\bin\Debug\net5.0\NegativePower.deps.json
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\bin\Debug\net5.0\NegativePower.runtimeconfig.json
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\bin\Debug\net5.0\NegativePower.runtimeconfig.dev.json
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\bin\Debug\net5.0\NegativePower.dll
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\bin\Debug\net5.0\ref\NegativePower.dll
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\bin\Debug\net5.0\NegativePower.pdb
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\obj\Debug\net5.0\NegativePower.dll
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\obj\Debug\net5.0\ref\NegativePower.dll
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\obj\Debug\net5.0\NegativePower.pdb
+C:\Users\KAAUTI\Documents\SumOfConsecutiveNumbers\NegativePower\obj\Debug\net5.0\NegativePower.genruntimeconfig.cache
